@@ -2,16 +2,20 @@ body{
     background-image:url(https://media.istockphoto.com/vectors/sharks-wallpaper-8-vector-id517103914?k=20&m=517103914&s=170667a&w=0&h=tZoGgDnbuXvSNdbegIP-vHMJLBaPFYi-_zcF5AG5FQQ=);
 }
 
-#Inicio{
+#Texto{
     background-color: #171f3a;
-    color: #1c526f;
+    color: #5386a1;
 
     margin:auto;
     margin-top: 20px;
     width: 950px;
-    height: 950px;
+    height: auto;
     border-radius: auto;
     padding: 50px;
+}
+
+#titulo{
+    color: #60899f;
 }
 
 #imgT{
@@ -23,10 +27,3 @@ body{
 
 }
 
-p{
-    font-size: larger;
-}
-
-#titulo{
-    color: #60899f;
-}
