@@ -1,0 +1,17 @@
+body{
+    background-color: #456093;
+}
+
+#Inicio{
+    background-color: #171f3a;
+    color: white;
+
+    margin:auto;
+    margin-top: 500px;
+    width: 960px;
+    height: 800px;
+}
+
+#img_Inicio{
+    align-items: center;
+}
